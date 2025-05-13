@@ -14,6 +14,7 @@ from User import *
 from movimanage import *
 from theatremanage import *
 from handletheatre import *
+from signup import *
 
 app = Flask(__name__)
 CORS(app)
