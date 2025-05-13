@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "67fcfff9d59076d3abd7c1b8"
+  },
+  "username": "balaji",
+  "password": "1234",
+  "email": "vaendhan@gmail.com",
+  "mobile": "93456 68493",
+  "role": "Client",
+  "selmovies": [
+    "Please Give",
+    "Four Sheets to the Wind",
+    "Brief Encounter",
+    "All About Eve",
+    "10",
+    "The Lost City",
+    "Bluebeard",
+    "Criminal",
+    "The Omen"
+  ],
+  "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRzLpSJFkFA64pQnqg7NYtdsUNFVbK1gfgAg&s"
+},
+{
+  "_id": {
+    "$oid": "67fd01bed59076d3abd7c1b9"
+  },
+  "username": "manibala",
+  "password": "234",
+  "email": "123@a",
+  "mobile": "1234567890",
+  "role": "Theatre Admin",
+  "selmovies": [
+    "Frosty the Snowman"
+  ],
+  "avatar": "4http://123",
+  "theatre": "apsara"
+},
+{
+  "_id": {
+    "$oid": "680238980b309d9a0c71ed68"
+  },
+  "username": "bala",
+  "password": "1234",
+  "email": "cmani0395@gmail.com",
+  "mobile": "9345668493",
+  "role": "admin",
+  "selmovies": [
+    "Please Give",
+    "Four Sheets to the Wind",
+    "Brief Encounter",
+    "All About Eve",
+    "10",
+    "The Lost City",
+    "Bluebeard",
+    "Criminal",
+    "The Omen"
+  ],
+  "avatar": "https://api.dicebear.com/7.x/fun-emoji/svg?seed=balaji"
+},
+{
+  "_id": {
+    "$oid": "680238b70b309d9a0c71ed6a"
+  },
+  "username": "manisteve",
+  "password": "4321",
+  "email": "cmani0395@gmail.com",
+  "mobile": "9345668493",
+  "role": "admin",
+  "selmovies": [
+    "Please Give",
+    "Four Sheets to the Wind",
+    "Brief Encounter",
+    "All About Eve",
+    "10",
+    "The Lost City",
+    "Bluebeard",
+    "Criminal",
+    "The Omen"
+  ],
+  "avatar": "https://api.dicebear.com/7.x/fun-emoji/svg?seed=balaji"
+},
+{
+  "_id": {
+    "$oid": "6805f80954c84c73eb8d260e"
+  },
+  "username": "gautham",
+  "password": "123",
+  "email": "gautham23@gmail.com",
+  "mobile": "90982732772",
+  "role": "Director",
+  "selmovies": [
+    "The Prowler (Cost of Living )",
+    "The Freshman"
+  ],
+  "avatar": "https://w0.peakpx.com/wallpaper/701/315/HD-wallpaper-ajith-deena-movie-actor-south-indian.jpg"
+},
+{
+  "_id": {
+    "$oid": "680795c12e97ad1ad3bdb4e0"
+  },
+  "username": "manikandan",
+  "password": "12345",
+  "email": "mani@gmail.com",
+  "mobile": "1234567890",
+  "role": "Theatre Admin",
+  "avatar": "https://api.dicebear.com/7.x/fun-emoji/svg?seed=manikandan",
+  "theatre": "rajalakshmi"
+},
+{
+  "_id": {
+    "$oid": "680b489689d684f2456d9ac9"
+  },
+  "username": "kp",
+  "password": "1234",
+  "email": "kp@gmail.com",
+  "mobile": "1234567890",
+  "role": "Producer",
+  "selmovies": [
+    "Chatham (The Golden Boys)",
+    "The Prowler (Cost of Living )"
+  ],
+  "avatar": "dadafsf"
+},
+{
+  "_id": {
+    "$oid": "68148059f066ed06840c3e8a"
+  },
+  "username": "mani",
+  "password": "2222",
+  "email": "1@m.com",
+  "mobile": "1234567890",
+  "role": "Theatre Admin",
+  "avatar": "https://api.dicebear.com/7.x/fun-emoji/svg?seed=mani",
+  "theatre": "sriram"
+},
+{
+  "_id": {
+    "$oid": "68229ade73b0eac0b9d01270"
+  },
+  "username": "hariharan",
+  "password": "1234",
+  "email": "hari@gmail.com",
+  "mobile": "9878765667",
+  "role": "Producer",
+  "selmovies": [
+    "The Baxter"
+  ],
+  "avatar": "https://api.dicebear.com/7.x/fun-emoji/svg?seed=hariharan"
+}]
